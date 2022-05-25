@@ -14,6 +14,7 @@ chardet @ file:///C:/ci/chardet_1607706937985/work
 colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
 conda==4.12.0
 conda-package-handling @ file:///C:/ci/conda-package-handling_1618262410900/work
+coverage==6.4
 cryptography @ file:///C:/ci/cryptography_1616769504165/work
 cycler==0.11.0
 debugpy @ file:///D:/bld/debugpy_1627074992000/work
@@ -68,6 +69,7 @@ pyparsing==3.0.9
 pyrsistent @ file:///D:/bld/pyrsistent_1610147004555/work
 PySocks @ file:///C:/ci/pysocks_1605307512533/work
 pytest==7.1.1
+pytest-cov==3.0.0
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
 pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1612179539967/work
 pywin32==228
